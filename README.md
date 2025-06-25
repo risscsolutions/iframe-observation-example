@@ -34,3 +34,7 @@ For the callbacks to work you'll need something like ngrok:
 ```
 docker run -it -e NGROK_AUTHTOKEN=YOUR_AUTH_TOKEN ngrok/ngrok:alpine http --host-header=rewrite host.docker.internal:3000
 ```
+
+## Running example
+
+For a up and running example [click here](https://printformer-iframe-observation-63fabd40cfd4.herokuapp.com/)
